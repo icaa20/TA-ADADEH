@@ -4,7 +4,7 @@
 <!-- Sidebar - Brand -->
 <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
     <div class="sidebar-brand-text mx-3">
-        NOMADS Admin
+        ADADEH Admin
 </div>
 </a>
 
@@ -22,13 +22,13 @@
 <li class="nav-item active">
     <a class="nav-link" href="index.html">
         <i class="fas fa-fw fa-hotel"></i>
-        <span>Paket Travel</span></a>
+        <span>jenis buku</span></a>
 </li>
 
 <li class="nav-item active">
     <a class="nav-link" href="index.html">
         <i class="fas fa-fw fa-images"></i>
-        <span>Galeri Travel</span></a>
+        <span>nomor buku</span></a>
 </li>
 
 <li class="nav-item active">
